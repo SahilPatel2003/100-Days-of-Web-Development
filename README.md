@@ -33,6 +33,6 @@
 * Revised HTML till Now.
 
 
-## 🔷Day 05 and 06
+## 🔷Day 04 and 05
 ### Created portfolio using HTML for practice. [(Link)](https://sahilpatel2003.github.io/100-Days-of-Web-Development/HTML/)
 * [Portfolio](https://sahilpatel2003.github.io/100-Days-of-Web-Development/HTML/)
