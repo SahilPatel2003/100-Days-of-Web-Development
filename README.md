@@ -1,4 +1,5 @@
 <h1 align="center" >100 Days of Web Development</h1>
+
 ## 🔷Day 01
 ### Learned some basic topics which are use in web development
 * How internet works [(documentation)](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work) [(video)](https://www.youtube.com/watch?v=x3c1ih2NJEg)
@@ -33,5 +34,5 @@
 
 
 ## 🔷Day 05 and 06
-### Created portfolio using HTML for practice. [(Link)]()
-* [Portfolio]()
+### Created portfolio using HTML for practice. [(Link)](https://sahilpatel2003.github.io/100-Days-of-Web-Development/HTML/)
+* [Portfolio](https://sahilpatel2003.github.io/100-Days-of-Web-Development/HTML/)
