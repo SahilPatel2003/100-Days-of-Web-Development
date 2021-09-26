@@ -1,4 +1,4 @@
-<h1 align="center" >100 Days of Web Development</h1>
+<h1 align="center" >🎉100 Days of Web Development🎉</h1>
 
 ## 🔷Day 01
 ### Learned some basic topics which are use in web development
@@ -30,8 +30,6 @@
  ## 🔷Day 03
 ### Continue with HTML.
 * [form tag - form](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)
-* Revised HTML till Now.
-
 
 ## 🔷Day 04 and 05
 ### Created portfolio using HTML for practice. [(Link)](https://sahilpatel2003.github.io/100-Days-of-Web-Development/HTML/)
