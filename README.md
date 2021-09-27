@@ -34,3 +34,6 @@
 ## 🔷Day 04 and 05
 ### Created portfolio using HTML for practice. [(Link)](https://sahilpatel2003.github.io/100-Days-of-Web-Development/HTML/)
 * [Portfolio](https://sahilpatel2003.github.io/100-Days-of-Web-Development/HTML/)
+
+ ## 🔷Day 06
+ ### Today i saw 4 videos on Introduction to CSS.
