@@ -37,3 +37,7 @@
 
  ## 🔷Day 06
  ### Today i saw 4 videos on Introduction to CSS.
+
+
+ ## 🔷Day 07
+ ### Today i completed folder of Introduction to CSS.
