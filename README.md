@@ -41,3 +41,10 @@
 
  ## 🔷Day 07
  ### Today i completed folder of Introduction to CSS.
+ 
+ ## 🔷Day 08
+ ### Today i saw 9 videos on Intermediate to CSS.
+ 
+  ## 🔷Day 09
+ ### Today i completed folder of Intermediate to CSS.
+ 
