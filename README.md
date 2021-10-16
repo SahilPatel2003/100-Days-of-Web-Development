@@ -37,16 +37,56 @@
 
  ## 🔷Day 06
  ### Today i saw 4 videos on Introduction to CSS.
-
+* [background-color](https://developer.mozilla.org/en-US/docs/Web/CSS/background-color)
+* [CSS Default Values Reference](https://www.w3schools.com/cssref/css_default_values.asp)
+* [border-style](https://developer.mozilla.org/en-US/docs/Web/CSS/border-style)
+* [height](https://devdocs.io/css/height)
+* [CSS Text](https://www.w3schools.com/css/css_text.asp)
+* [gradient](https://developer.mozilla.org/en-US/docs/Web/CSS/gradient)
 
  ## 🔷Day 07
  ### Today i completed folder of Introduction to CSS.
+ ### Learned about [CSS Selector](https://www.w3schools.com/css/css_selectors.asp).
+ ### [CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
  
  ## 🔷Day 08
  ### Today i saw 9 videos on Intermediate to CSS.
+ * [Box Model](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model)
+* [display](https://developer.mozilla.org/en-US/docs/Web/CSS/display)
+* [Block Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements)
+* [Inline Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Inline_elements)
+* [Inline Block Elements](https://www.w3schools.com/css/css_inline-block.asp)
+* [Position](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
+* [Text Align](https://developer.mozilla.org/en-US/docs/Web/CSS/text-align)
  
   ## 🔷Day 09
  ### Today i completed folder of Intermediate to CSS.
+ * [font-family](https://developer.mozilla.org/en-US/docs/Web/CSS/font-family)
+* [font-size](https://developer.mozilla.org/en-US/docs/Web/CSS/font-size)
+* [font-stretch](https://developer.mozilla.org/en-US/docs/Web/CSS/font-stretch)
+* [font-style](https://developer.mozilla.org/en-US/docs/Web/CSS/font-style)
+* [font-weight](https://developer.mozilla.org/en-US/docs/Web/CSS/font-weight)
+* [line-height](https://developer.mozilla.org/en-US/docs/Web/CSS/line-height)
  
   ## 🔷Day 10
  ### Today i Saw some projects based on HTML and CSS.
+ 
+ ## 🔷Day 11
+   ### Started to learn about JavaScript.
+* [alert](https://www.w3schools.com/jsref/met_win_alert.asp)
+* [prompt](https://developer.mozilla.org/en-US/docs/Web/API/Window/prompt)
+* [var](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var)
+* [string](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
+* [var](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var)
+* [prompt](https://developer.mozilla.org/en-US/docs/Web/API/Window/prompt)
+* 
+ ## 🔷Day 12
+* [string](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String).
+* [Operators](https://www.w3schools.com/js/js_operators.asp)
+* 
+## 🔷Day 16
+### Learned following concepts in JavaScript.
+* [Functions](https://www.w3schools.com/js/js_functions.asp)
+* [Loops](https://www.w3schools.com/js/js_loop_for.asp)
+* [Arrays](https://www.w3schools.com/js/js_arrays.asp)
+
