@@ -90,3 +90,16 @@
 * [Loops](https://www.w3schools.com/js/js_loop_for.asp)
 * [Arrays](https://www.w3schools.com/js/js_arrays.asp)
 
+## 🔷 Day 17
+### Learned about following concepts in JavaScript DOM.
+* [Finding HTML Elements](https://www.w3schools.com/js/js_htmldom_elements.asp)
+* [Changing HTML Content](https://www.w3schools.com/js/js_htmldom_html.asp)
+
+
+## 🔷 Day 18
+### Learned about following concepts in JavaScript DOM.
+* [addEventListener](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
+* [Event reference](https://developer.mozilla.org/en-US/docs/Web/Events#specifications)
+* [Object Constructors](https://www.w3schools.com/js/js_object_constructors.asp)
+
+
